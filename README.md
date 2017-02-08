@@ -1,5 +1,10 @@
 # README #
 
+Usage: TwitterBot.exe consumerKey consumerSecret accessToken accessTokenSecret
+
+
+# TASK #
+
 Тестовое задание: twitter-бот
 
 Написать консольное приложение под платформу .net (4.0 или выше) на языке C#. Программа
